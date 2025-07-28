@@ -4,24 +4,24 @@ This project evaluates the financial viability of Netflix's international expans
 
 ## Netflix Expansion Dashboard
 
-![Netflix DCF Dashboard](images/Netflix%20DCF%20Dashboard.png)
+![Netflix DCF Dashboard](Images/Netflix%20DCF%20Dashboard.png)
 
 ## DCF Output
 
-![DCF](images/DCF.png)
+![DCF](Images/DCF.png)
 
 ## CapEx Output
 
-![CapEx](images/CapEx.png)
+![CapEx](Images/CapEx.png)
 
 ## Financing Output
 
-![Financing](images/Financing.png)
+![Financing](Images/Financing.png)
 
 ## Simulation Output
 
-![Simulation](images/Simulation.png)
+![Simulation](Images/Simulation.png)
 
 ## Data Output
 
-![Data](images/Data.png)
+![Data](Images/Data.png)
